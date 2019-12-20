@@ -8,3 +8,4 @@ The aim is to run each "Branch" script for each zip file to get the expected num
 Output:
 It will create a single excel file including the expected number of relocations and run times for each bay configuration in each Excel sheet. 
 To try differeny bay designs, you only need to change the "branch" scripts for particular bay configuration of maximum bay and tier numbers. 
+The published paper can be found as Karakaya, E., Vinel, A., Smith, A. E. (xxxx). Markov chain model for the number of relocations in container yards. To be published, xx, xx.
