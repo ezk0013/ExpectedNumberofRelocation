@@ -3,9 +3,9 @@ This repo includes Matlab codes to calculate the expected number of relocations 
 
 To work with this repository, you just need an Matlab 2016 or later version.
 
-The aim is to run each "Branch" script for each zip file to get the expected number of relocations for any bay design with different maximum row and tier numbers. the default values are from 1 to 8 for tiers and from 1 to 12 for rows.
+The aim is to run each "mainXXX" script for each zip file to get the expected number of relocations for any bay design with different maximum row and tier numbers. The default values are from 1 to 8 for tiers and from 1 to 9 for rows.
 
 Output:
-It will create a single excel file including the expected number of relocations and run times for each bay configuration in each Excel sheet. 
-To try differeny bay designs, you only need to change the "branch" scripts for particular bay configuration of maximum bay and tier numbers. 
-The published paper can be found as Karakaya, E., Vinel, A., Smith, A. E. (xxxx). Markov chain model for the number of relocations in container yards. To be published, xx, xx.
+It will create a single excel file(SUMMARYXXX) including the expected number of relocations, standard deviation, quartiles and run times for each bay configuration.
+To try differeny bay designs, you only need to change the "mainXXX" scripts for particular bay configuration of maximum bay and tier numbers. 
+The published paper can be found as Karakaya, E., Vinel, A., & Smith, A. E., A Markov Model for Relocations in Container Depots for Different Material Handling Equipment Types. To be published, xx, xx.
