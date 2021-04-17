@@ -8,4 +8,4 @@ The aim is to run each "mainXXX" script for each zip file to get the expected nu
 Output:
 It will create a single excel file(SUMMARYXXX) including the expected number of relocations, standard deviation, quartiles and run times for each bay configuration.
 To try differeny bay designs, you only need to change the "mainXXX" scripts for particular bay configuration of maximum bay and tier numbers. 
-The published paper can be found as Karakaya, E., Vinel, A., & Smith, A. E., A Markov Model for Relocations in Container Depots for Different Material Handling Equipment Types. To be published, xx, xx.
+The published paper can be found as Karakaya, E., Vinel, A., & Smith, A. E. (2021). Relocations in container depots for different handling equipment types: Markov models. Computers & Industrial Engineering, xx, xx.
