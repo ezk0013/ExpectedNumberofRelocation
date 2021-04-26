@@ -1,7 +1,7 @@
 # ExpectedNumberofRelocation
 This repository includes Matlab codes to calculate the expected number of relocations for different material handling equipment in shipping container yards.
 
-The published paper describing these codes in detail can be found in Karakaya, E., Vinel, A., & Smith, A. E. (2021). Relocations in container depots for different handling equipment types: Markov models. Computers & Industrial Engineering, xx, xx.
+The published paper describing these codes in detail can be found in Karakaya, E., Vinel, A., & Smith, A. E. (2021). Relocations in container depots for different handling equipment types: Markov models. Computers & Industrial Engineering, 157, 107311. https://doi.org/10.1016/j.cie.2021.107311 
 
 To work with this repository, you need the Matlab 2016 or later version.
 
